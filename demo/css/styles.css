@@ -1,0 +1,101 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0px;
+	padding: 0px 0px 30px 0px;
+	font-size: 12px;
+}
+
+#header, #central {
+	max-width: 1400px;
+	margin: 0 auto;
+}
+
+h1 {
+	padding: 0px;
+	margin: 0px;
+	font-size: 20px;
+}
+
+h2 {
+	padding: 20px 0px 20px 0px;
+}
+
+a:link, a:active, a:hover {
+	color: #1B94E0;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #822323;
+}
+
+form {
+	padding-bottom: 40px;
+}
+
+.table-box {
+	padding: 0px 20px 20px 20px;
+}
+
+table {
+	margin: 0 auto;
+	border: 1px solid #c0c0c0;
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+table td {
+	border: 1px solid #c0c0c0;
+	padding: 7px;
+}
+
+table .thead td {
+	font-weight: bold;
+}
+
+.return  {
+	padding-top: 20px;
+	display: inline-block;
+}
+
+#header {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid #c0c0c0;
+}
+
+.h1_sub {
+	padding: 0px;
+	margin: 20px 0px 0px 0px;
+	font-size: 12px;
+}
+
+.section_header {
+	margin-top: 20px;
+	display: inline-block;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+ul li a {
+	display: inline-block;
+	padding-top: 6px;
+}
+
+pre {
+	border: 1px solid #DBDBDB;
+	background-color: #F2F2F2;
+	padding: 20px;
+	font-family: "Courier New";
+	font-size: 11px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+hr {
+	height: 1px;
+	border: none;
+	background-color: #c0c0c0;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
