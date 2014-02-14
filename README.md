@@ -16,6 +16,20 @@ $bef->call();
 ?>
 ```
 
+### Installing with Composer
+
+You can add the source files to your with composer, elimiating the need to require the files, enabling the classes to be called at any time.
+
+Add `appliedorder/barclays-efinance-api-library` to the contents of your composer.json:
+
+```javascript
+{
+    "require": {
+        "appliedorder/barclays-efinance-api-library": ">=0.1.0"
+    }
+}
+```
+
 ## License
 
 Copyright (c) 2012 Ben Griffiths (http://www.appliedorder.com)
