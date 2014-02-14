@@ -5,6 +5,7 @@
     "keywords": ["api","barclays","efinance","php","lib","library"],
     "homepage": "https://github.com/BenGriffiths/barclays-efinance-api-library",
     "license": "MIT",
+    "version" : "0.1.0",
     "authors": [
         {
             "name": "Ben Griffiths",
