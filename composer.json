@@ -1,0 +1,24 @@
+{
+    "name": "appliedorder/barclays-efinance-api-library",
+    "type": "library",
+    "description": "PHP Library for Barclays Partner Finance eFinance API",
+    "keywords": ["api","barclays","efinance","php","lib","library"],
+    "homepage": "https://github.com/BenGriffiths/barclays-efinance-api-library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Griffiths",
+            "email": "hello@appliedorder.com",
+            "homepage": "http://www.appliedorder.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": {
+            "src/efinance.php"
+        }
+    }
+}
