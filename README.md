@@ -32,6 +32,6 @@ Add `appliedorder/barclays-efinance-api-library` to the contents of your compose
 
 ## License
 
-Copyright (c) 2012 Ben Griffiths (http://www.appliedorder.com)
+Copyright (c) 2014 Ben Griffiths (http://www.appliedorder.com)
 
 Licensed under the MIT License (http://www.opensource.org/licenses/mit-license.php)
